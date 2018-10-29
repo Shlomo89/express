@@ -10,6 +10,6 @@ res.redirect("/shop");
 route.get("/", (req, res, next) => {
   res.send("<h1> Admin page </h1>");
 });
-//comment
+// my second commit
 
 module.exports = route;
